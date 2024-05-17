@@ -26,7 +26,7 @@ class Home_Page extends StatelessWidget {
             const SizedBox(height: 50.0),
             ClipRRect(
               borderRadius: BorderRadius.circular(130.0),
-              child: Image.asset("assets/images/Sensei_Logo.png",filterQuality: FilterQuality.high,scale: 3,isAntiAlias: true,),
+              child: Image.asset("assets/images/Sensei_Logo.png",filterQuality: FilterQuality.high,scale: 8,isAntiAlias: true,),
             ),
             // Builder(
             //   builder: (context) {
