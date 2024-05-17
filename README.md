@@ -1,16 +1,24 @@
-# torikkusu
+# Torikkusu XO Game with Flutter
 
-"torikkusu"is a simple yet exciting strategic game. The game requires two players, each drawing either a circle or a cross in the squares of a 3x3 grid. The goal of the game is to have three of your symbol in a row, whether it be vertically, horizontally, or diagonally, before your opponent. This game requires strategic planning and quick thinking. It’s fun and engaging, and can be played anytime, anywhere! 😊
+This is a simple (XO) game developed using Flutter.
 
-## Getting Started
+## Features
+- Play against another player.
+- - Play against AI.
+- Clean and intuitive user interface.
+- Tracks and displays player scores.
+- Dark And Light Theme
 
-This project is a starting point for a Flutter application.
+## Screenshots
+-Dark Theme
+-![Screenshot_20240518_001121](https://github.com/MostafaSensei106/Torikkusu-XO-Game/assets/138288138/32d6828e-fb49-405d-9d42-a82a56741916)
 
-A few resources to get you started if this is your first Flutter project:
+-![Screenshot_20240518_001145](https://github.com/MostafaSensei106/Torikkusu-XO-Game/assets/138288138/71105ed8-385b-4e2f-af56-63d6c9e6b85b)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-Light Theme
+-![Screenshot_20240518_001210](https://github.com/MostafaSensei106/Torikkusu-XO-Game/assets/138288138/42dfd114-c76d-4bb5-8b4a-24002f8e5a8f)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-![Screenshot_20240518_001228](https://github.com/MostafaSensei106/Torikkusu-XO-Game/assets/138288138/f627667f-2d35-4b5b-8d27-4f1bd7ff27bd)
+
+## Installation
+-Go to release and Download Version That Your Mobile CPU Support.
