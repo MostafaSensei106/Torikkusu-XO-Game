@@ -4,7 +4,7 @@ This is a simple (XO) game developed using Flutter.
 
 ## Features
 - Play against another player.
-- - Play against AI.
+- Play against AI.
 - Clean and intuitive user interface.
 - Tracks and displays player scores.
 - Dark And Light Theme
