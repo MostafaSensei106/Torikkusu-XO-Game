@@ -22,4 +22,4 @@ This is a simple (XO) game developed using Flutter.
 
 ## Installation
 -Go to release and Download Version That Your Mobile CPU Support.
--https://github.com/MostafaSensei106/Torikkusu-XO-Game/releases/tag/Flutter
+
