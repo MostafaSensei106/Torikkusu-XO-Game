@@ -22,7 +22,6 @@ class TitleText {
             .secondary,
         fontFamily: 'Overlock',
         fontSize: 25,
-        fontWeight: FontWeight.bold
     );
   }
 
