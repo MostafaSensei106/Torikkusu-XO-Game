@@ -69,4 +69,41 @@ class TitleText {
         fontSize: 25,
     );
   }
+
+  static Sensei_Game_Drawer_Japan_Font(BuildContext context){
+    return TextStyle(
+      color: Theme
+          .of(context)
+          .colorScheme
+          .surfaceTint,
+      fontFamily: 'YujiSyuku',
+      fontSize: 25,
+        fontWeight: FontWeight.bold
+    );
+  }
+
+  static Sensei_Game_Drawer_English_Font(BuildContext context){
+    return TextStyle(
+        color: Theme
+            .of(context)
+            .colorScheme
+            .surfaceTint,
+        fontFamily: 'Overlock',
+        fontSize: 25,
+        fontWeight: FontWeight.bold
+    );
+  }
+
+  static Sensei_Game_Drawer_List(BuildContext context){
+    return TextStyle(
+        color: Theme
+            .of(context)
+            .colorScheme
+            .secondary,
+        fontFamily: 'Overlock',
+        fontSize: 20,
+    );
+  }
+
+
 }

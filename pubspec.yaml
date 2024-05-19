@@ -31,6 +31,7 @@ dependencies:
   google_fonts: ^6.2.1
   flutter_launcher_icons: ^0.13.1
   provider: ^6.0.5
+  shared_preferences: ^2.0.0
 
 flutter_icons:
   android: true
@@ -110,4 +111,3 @@ flutter:
     - lib/
     - assets/images/Torikkusu.png
     - assets/images/Sensei_Logo.png
-

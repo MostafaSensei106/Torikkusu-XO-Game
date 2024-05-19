@@ -7,6 +7,7 @@ ThemeData Torikkusu_Light = ThemeData(
       primary: Color(0xff0d1d23),
       secondary: Color(0xff2f5975),
       surface: Color(0xff0d1d23),
+      surfaceTint: Colors.white
 
     )
 );
