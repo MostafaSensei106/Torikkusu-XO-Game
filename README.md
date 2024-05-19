@@ -10,16 +10,20 @@ This is a simple (XO) game developed using Flutter.
 - Dark And Light Theme
 
 ## Screenshots
--Dark Theme
--![Screenshot_20240518_001121](https://github.com/MostafaSensei106/Torikkusu-XO-Game/assets/138288138/32d6828e-fb49-405d-9d42-a82a56741916)
+-Dark Theme:
+-Home Screen in Dark Mode
+-![Screenshot_٢٠٢٤٠٥١٨_٢٣٣٩٠٥](https://github.com/MostafaSensei106/Torikkusu-XO-Game/assets/138288138/3cabfa00-376a-43ae-92e9-91188cc58f39)
 
--![Screenshot_20240518_001145](https://github.com/MostafaSensei106/Torikkusu-XO-Game/assets/138288138/71105ed8-385b-4e2f-af56-63d6c9e6b85b)
+-Game Board In Dark Mode
+-![Screenshot_٢٠٢٤٠٥١٨_٢٣٣٩٠٩](https://github.com/MostafaSensei106/Torikkusu-XO-Game/assets/138288138/bc3e2dad-7c2b-43a7-a684-e680848b74b1)
 
--Light Theme
--![Screenshot_20240518_001210](https://github.com/MostafaSensei106/Torikkusu-XO-Game/assets/138288138/42dfd114-c76d-4bb5-8b4a-24002f8e5a8f)
+-Light Theme:
+-Home Screen in Light Mode
+-![Screenshot_٢٠٢٤٠٥١٨_٢٣٤١٥٥](https://github.com/MostafaSensei106/Torikkusu-XO-Game/assets/138288138/d529d928-75ee-4f64-a111-7fb34caa3a53)
 
--![Screenshot_20240518_001228](https://github.com/MostafaSensei106/Torikkusu-XO-Game/assets/138288138/f627667f-2d35-4b5b-8d27-4f1bd7ff27bd)
+-Game Board In Light Mode
+-![Screenshot_٢٠٢٤٠٥١٨_٢٣٤١٤٥](https://github.com/MostafaSensei106/Torikkusu-XO-Game/assets/138288138/500b8f6c-9e0f-4fe8-82dd-1066a7506fcf)
+
 
 ## Installation
--Go to release and Download Version That Your Mobile CPU Support.
-
+-Just Download And Have Fun😁😁💕.
