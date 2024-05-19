@@ -13,11 +13,12 @@ class Assets {
   static const String torikkusuGameTorikkusuLogic = 'lib/Torikkusu_Game/Torikkusu_Logic.dart';
   static const String torikkusuGameTorikkusuMainGame = 'lib/Torikkusu_Game/Torikkusu_Main_Game.dart';
   static const String torikkusuGameTorikkusuPlayer = 'lib/Torikkusu_Game/Torikkusu_Player.dart';
-  static const String torikkusuHomePageThemeProvider = 'lib/Torikkusu_Home_Page/Torikkusu_Theme_Changer.dart';
+  static const String torikkusuHomePageThemeChanger = 'lib/Torikkusu_Home_Page/Torikkusu_Theme_Model.dart';
   static const String torikkusuHomePageTorikkusuGameAiButton = 'lib/Torikkusu_Home_Page/Torikkusu_Game_Ai_Button.dart';
-  static const String torikkusuHomePageTorikkusuGameAppBar = 'lib/Torikkusu_Home_Page/Torikkusu_Game_Sensei_Drawer.dart';
   static const String torikkusuHomePageTorikkusuGameButton = 'lib/Torikkusu_Home_Page/Torikkusu_Game_Button.dart';
+  static const String torikkusuHomePageTorikkusuGameSenseiDrawer = 'lib/Torikkusu_Home_Page/Torikkusu_Game_Sensei_Drawer.dart';
   static const String torikkusuHomePageTorikkusuHomePage = 'lib/Torikkusu_Home_Page/Torikkusu_Home_Page.dart';
   static const String torikkusuHomePageTorikkusuHomePageTitleText = 'lib/Torikkusu_Home_Page/Torikkusu_Home_Page_TitleText.dart';
+  static const String torikkusuHomePageTorikkusuThemeChanger = 'lib/Torikkusu_Home_Page/Torikkusu_Theme_Shared_Prefrences.dart';
 
 }
